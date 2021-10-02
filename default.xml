@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<manifest>
+    <remote fetch="https://github.com" name="origin"/>
+    <project remote="origin" name="iris-GmbH/meta-iris-thirdparty.git" path="demo" revision="master"/>
+</manifest>
